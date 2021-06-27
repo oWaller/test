@@ -135,7 +135,7 @@ dimwishlist:item=1046651176&perks=3177308360,,2846385770,3038247973
 dimwishlist:item=1046651176&perks=3230963543,2846385770,3038247973
 
 // Bottom Dollar
-//notes:Me (???  ???): enables 2 taps, PvP
+//notes:Me (???  ???): enables 2 tap headshots, PvP
 dimwishlist:item=1046651176&perks=2779035018,2458213969
 
 
