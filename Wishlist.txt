@@ -138,9 +138,12 @@ dimwishlist:item=1046651176&perks=3230963543,2846385770,3038247973
 //notes:Me (???  ???): enables 2 tap headshots, PvP
 dimwishlist:item=1046651176&perks=2779035018,2458213969
 
-
-
-
+// Toil and Trouble
+//notes:Me (??? PvP ???): PvP, focus on range + Handling|tags:PvP
+dimwishlist:item=2957367743&perks=4071163871,957782887,684616255
+dimwishlist:item=2957367743&perks=4071163871,957782887,186337601
+dimwishlist:item=2957367743&perks=4071163871,957782887,2697220197
+dimwishlist:item=2957367743&perks=4071163871,957782887,2357520979
 
 
 
